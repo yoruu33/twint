@@ -1,0 +1,1 @@
+twint -u yorusarr --filter-retweets --filter-replies --hide-output -o yorusarr_tweets.csv --csv
